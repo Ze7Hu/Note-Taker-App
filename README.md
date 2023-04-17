@@ -5,7 +5,7 @@ Modify starter code to create an application called Note Taker that can be used 
 
 # Github Pages
 
-Locate the deployed application here[]
+Locate the deployed application here[https://note-taker-appl.herokuapp.com]
 
 
 # Description
